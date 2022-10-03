@@ -5,7 +5,7 @@
     <br>
 </h2> 
 <p>
- I love to build many great products to solve real-life problems and help people.
+ I love to build many great and useful products to solve real-life problems and help people.
 </p>
 
 <h2 align="left">🛠️ Technologies Stack:</h2>
@@ -38,13 +38,11 @@
 
 💻 I am working as Software Engineer
 
-👀 I’m interested in Ecommerce, Banking, Fintech
+📚 I'm currently learning Java, C#
 
-❤️ Build many great products
+👀 I’m interested in Ecommerce, Fintech and AI
 
-🌱 I’m currently learning Deep Learning, Automation Test
-
-📚  Writing https://nphau.medium.com
+❤️ Love to build many great and useful products
 
 📫 How to reach me: nguyen.hai.dang@icloud.com
 
