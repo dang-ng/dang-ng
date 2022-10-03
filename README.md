@@ -5,7 +5,7 @@
     <br>
 </h2> 
 <p>
- I love to contribute to open source projects. I also write about software engineering, learning, and career to help readers. A true Software Engineer aspires to build a strong community and help other people grow up.
+ I love to build many great products to solve real-life problems and help people.
 </p>
 
 <h2 align="left">🛠️ Technologies Stack:</h2>
@@ -57,11 +57,11 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 
-💻 I am working as Lead Software Engineer, Mobile
+💻 I am working as Software Engineer
 
-👀 I’m interested in Banking, Fintech, Blockchain
+👀 I’m interested in Ecommerce, Banking, Fintech
 
-❤️ Open Source Software
+❤️ Build many great products
 
 🌱 I’m currently learning Deep Learning, Automation Test
 
@@ -69,16 +69,4 @@
 
 📫 How to reach me: nguyen.hai.dang@icloud.com
 
-🔥 Twitter: https://twitter.com/nphausg
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Let's talk: (+84) 9 3320 3310
