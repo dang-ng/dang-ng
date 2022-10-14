@@ -35,7 +35,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-/*💻 I am working as Software Engineer*/
+💻 I love to be a Software Engineer
 
 📚 I'm currently learning Java, C#
 
