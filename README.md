@@ -26,10 +26,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
     </a>
     <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
     <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
 
@@ -45,4 +45,4 @@
 
 :mailbox: How to reach me: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
 
-:fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/){:target="_blank" rel="noopener"}
+:fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
