@@ -45,4 +45,6 @@
 
 📫 How to reach me: nguyen.hai.dang@icloud.com
 
+<i class="fa-brands fa-hackerrank"></i>https://www.hackerrank.com/nguyen_hai_dang
+
 🔥 Let's talk: (+84) 9 3320 3310
