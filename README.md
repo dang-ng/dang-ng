@@ -34,15 +34,15 @@
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-:smile
-💻 I love to be a Software Engineer
 
-📚 I'm currently learning Java, C#
+:computer: I love to be a Software Engineer
 
-👀 I’m interested in Ecommerce, Fintech and AI
+:books: I'm currently learning Java, C#
 
-❤️ Love to build many great and useful products
+:eyes: I’m interested in Ecommerce, Fintech and AI
 
-📫 How to reach me: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
+:heart: Love to build many great and useful products
 
-🔥 Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
+:mailbox: How to reach me: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
+
+:fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
