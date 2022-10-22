@@ -39,8 +39,6 @@
 
 :books: I'm currently learning Java, C#
 
-:eyes: I’m interested in Ecommerce, Fintech and AI
-
 :heart: Love to build many great and useful products
 
 :mailbox: How to reach me: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
