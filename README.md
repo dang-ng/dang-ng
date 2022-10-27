@@ -37,8 +37,6 @@
 
 :computer: I love to be a Software Engineer
 
-:books: I'm currently learning Java, C#
-
 :heart: Love to build many great and useful products
 
 :mailbox: Reach me at email: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
