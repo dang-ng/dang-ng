@@ -5,7 +5,7 @@
     <br>
 </h2> 
 <p>
- With 10-year experience in various industries, I've been in love with technology for a very long time. I love building many great and useful products to solve real-life problems and help people. And technology can help me to do that.
+ With 10-year experience in various industries, I love building many great and useful products to solve real-life problems and help people.
 </p>
 
 <h2 align="left">🛠️ Technologies Stack:</h2>
