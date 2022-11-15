@@ -37,6 +37,8 @@
 
 :heart: I love to be a Software Engineer, to build many great and useful products
 
+:computer: 5-year experience as web back-end admin
+
 :mailbox: Reach me at email: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
 
 :fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
