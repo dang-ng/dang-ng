@@ -38,8 +38,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-:heart: I love to be a Software Engineer, to build many great and useful products
-
 :computer: 5-year experience as web back-end admin
 
 :mailbox: Reach me at email: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
