@@ -44,4 +44,4 @@
 
 :fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
 
-:briefcase: My portforlio: <a target="_blank">https://dang-ng.github.io/portfolio/</a>
+:briefcase: My portforlio: <a href="https://dang-ng.github.io/portfolio/" target="_blank">https://dang-ng.github.io/portfolio/</a>
