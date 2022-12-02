@@ -5,7 +5,7 @@
     <br>
 </h2> 
 <p>
- With 10-year experience in various industries, I love building many great and useful products to solve real-life problems and help people.
+ With many-year experience in various industries, I love building many great and useful products to solve real-life problems and help people.
 </p>
 
 <h2 align="left">🛠️ Technologies Stack:</h2>
@@ -43,5 +43,3 @@
 :mailbox: Reach me at email: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
 
 :fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
-
-:briefcase: My portforlio: <a href="https://dang-ng.github.io/portfolio/" target="_blank">https://dang-ng.github.io/portfolio/</a>
