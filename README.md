@@ -38,7 +38,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-:computer: 5-year experience as web back-end admin
+:computer: 5-year experience as Java & .NET software engineer
 
 :mailbox: Reach me at email: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
 
