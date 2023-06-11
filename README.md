@@ -34,6 +34,6 @@
 
 :computer: Java & .NET software engineer
 
-:mailbox: Reach me at email: nguyen.hai.dang@icloud.com or let's talk :telephone_receiver:(+84) 9 3320 3310
+:mailbox: Reach me at email: nguyen.hai.dang@icloud.com
 
 :fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
