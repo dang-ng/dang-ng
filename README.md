@@ -4,7 +4,7 @@
     👋 Hi, I’m Đăng
     <br>
 </h2> 
-<p>
+<!-- <p>
  Experienced and passionate Software Engineer. Love building many great and useful products to solve real-life problems and help people.
 </p>
 
@@ -15,3 +15,4 @@
 :mailbox: Reach me at email: nguyen.hai.dang@icloud.com
 
 :fire: Check out my profile on [HackerRank](https://www.hackerrank.com/nguyen_hai_dang) and [Leetcode](https://leetcode.com/derekn/)
+ -->
