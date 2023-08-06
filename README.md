@@ -1,8 +1,8 @@
 <h2 align="center">
     <img src="./banner.gif">
-    <br> 
+<!--     <br> 
     👋 Hi, I’m Đăng
-    <br>
+    <br> -->
 </h2> 
 <!-- <p>
  Experienced and passionate Software Engineer. Love building many great and useful products to solve real-life problems and help people.
